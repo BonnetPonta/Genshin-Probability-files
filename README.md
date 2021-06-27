@@ -3,7 +3,7 @@
 1.[English](https://github.com/BonnetPonta/Genshin-Probability-files#english)  
 2.[日本語](https://github.com/BonnetPonta/Genshin-Probability-files#日本語)
 # [English]  
-### [About Genshin Gacha]  
+## [About Genshin Gacha]  
 There are three types of gacha: a limited-time PU character gacha that includes PU characters, a limited-time weapon gacha, and a regular prayer that is always held.
 This time I tried to reproduce PU gacha and normal gacha.
 
@@ -23,7 +23,7 @@ There is also a ceiling.
 ③ In the case of PU gacha, there is a 50% chance that you can get 5 PU star characters. However, if the PU character is not available, it will be confirmed when the next 5 stars are discharged.
 
 
-### [File description]  
+## [File description]  
 3 and 5 are iteratively processed until 5 stars appear. 5 which added the display name to 3 is the main.
 4 is fixed 10 times. (No ceiling setting)
 6 is fixed 90 times. (With ceiling setting)
@@ -32,11 +32,11 @@ There is also a ceiling.
 7 is fixed 1000 times. PU prayer (with ceiling setting)
 9 is fixed 1000 times. Normal prayer (with ceiling setting)
 
-### [Ingenuity]  
+## [Ingenuity]  
 By coloring the last print, I think we were able to emphasize visibility. It's completely free, so you'll want to try it again and again!
 
 # [日本語]  
-### [原神のガチャについて]  
+## [原神のガチャについて]  
 ガチャには、PUキャラが含まれる期間限定のPUキャラガチャと、期間限定の武器ガチャ、常時開催中の通常祈願の3つがあります。
 今回はPUガチャと通常ガチャを再現してみました。
 
@@ -56,7 +56,7 @@ By coloring the last print, I think we were able to emphasize visibility. It's c
 ③PUガチャの場合50％の確率でPU星5キャラが入手できます。しかしPUキャラが入手できなかった場合、次の星5排出時確定。
 
 
-### [ファイルの説明]
+## [ファイルの説明]
 3と5は星5がでるまで繰り返し処理されます。3に表示名を追加した5がメインです。
 4は10回固定。(天井設定無し)
 6は90回固定。(天井設定有り)
@@ -65,5 +65,5 @@ By coloring the last print, I think we were able to emphasize visibility. It's c
 7は1000回固定。PU祈願(天井設定有り)
 9は1000回固定。通常祈願(天井設定有り)
 
-### [工夫点]
+## [工夫点]
 最後のprintを色を付けることで見やすさ重視にできたと思います。完全無料なので何度もトライしたくなるそんな作品です!
