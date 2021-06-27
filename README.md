@@ -1,7 +1,7 @@
 # Genshin-Probability-files  
 # Langage  
-1.[English](https://github.com/BonnetPonta/Genshin-Probability-files#[English])  
-2.[日本語](https://github.com/BonnetPonta/Genshin-Probability-files#[日本語])
+1.[English](https://github.com/BonnetPonta/Genshin-Probability-files#english)  
+2.[日本語](https://github.com/BonnetPonta/Genshin-Probability-files#日本語)
 # [English]  
 ### [About Genshin Gacha]  
 There are three types of gacha: a limited-time PU character gacha that includes PU characters, a limited-time weapon gacha, and a regular prayer that is always held.
